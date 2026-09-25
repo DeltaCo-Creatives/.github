@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=250&section=header&text=DeltaCo%20Creatives&fontSize=75&fontAlignY=35&animation=twinkling&desc=Developing%20Digital%20Ecosystems&descAlignY=55&descAlign=50" alt="DeltaCo Creatives Banner" />
 
-  **Designing and engineering scalable frontend architectures and digital solutions.** 
+  **Designing and engineering scalable Web architectures and digital solutions.** 
   
   [![Contact](https://img.shields.io/badge/Email-deltaprojects2128%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deltaprojects2128@gmail.com)
 
@@ -10,7 +10,7 @@
 
 ## About DeltaCo Creatives
 
-Welcome to the central hub for **DeltaCo Creatives**. We are a development organization focused on building dynamic, responsive, and highly optimized digital interfaces. Our primary focus lies in crafting robust frontend architectures, interactive mockups, and comprehensive user experiences. 
+Welcome to the central hub for **DeltaCo Creatives**. We are a development organization focused on building dynamic, responsive, and highly optimized digital interfaces. Our primary focus lies in crafting robust Web architectures, interactive mockups, and comprehensive user experiences. 
 
 From initial wireframes to final deployment, we prioritize clean code, intuitive design, and seamless performance.
 
@@ -46,13 +46,6 @@ Explore our open-source projects, frontend mockups, and core site infrastructure
 
 ---
 
-## Contributing
-
-We welcome collaboration across all our active repositories. If you are interested in refining our frontend structures, improving UI components, or expanding our cloud architecture, feel free to get involved.
-
-1. Fork the target repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
 
 <div align="center">
 
