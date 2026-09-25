@@ -1,2 +1,0 @@
-# .github
-DeltaCo-Creatives Home
